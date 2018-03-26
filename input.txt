@@ -1,4 +1,13 @@
-This is the example text file for word count example also knows as hello world example of the Hadoop ecosystem.
-This example is written for the examples article of java code geek
-The quick brown fox jumps over the lazy dog.
-The above line is one of the most famous lines which contains all the english language alphabets.
+12:32:17 www.asasdd.ru
+12:32:12 www.adasdsd.ru
+12:32:13 www.asd.ru
+12:32:17 www.aasdsd.ru
+12:34:17 www.aasdassd.ru
+12:52:17 www.aasdasd.ru
+12:32:17 www.asd.ru
+12:32:17 www.aasdsd.ru
+12:12:17 www.asd.ru
+12:32:17 www.aasdassd.ru
+12:22:17 www.asd.ru
+12:33:17 www.asasdd.ru
+12:34:17 www.asdd.ru
