@@ -21,14 +21,14 @@
     </build>
 
     <dependencies>
-       <dependency>
+      <!-- <dependency>
             <groupId>org.apache.hadoop</groupId>
             <artifactId>hadoop-core</artifactId>
             <version>1.2.1</version>
-        </dependency>
+        </dependency>-->
 
 
-        <!--<dependency>
+        <dependency>
         <groupId>org.apache.spark</groupId>
             <artifactId>spark-core_2.11</artifactId>
             <version>2.3.0</version>
@@ -39,7 +39,7 @@
             <artifactId>spark-streaming_2.11</artifactId>
             <version>2.3.0</version>
             <scope>provided</scope>
-        </dependency>-->
+        </dependency>
 
 
         <dependency>
